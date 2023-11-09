@@ -1,0 +1,4 @@
+Hello World.
+
+In this example, the map function is used to transform each string in the words list to its uppercase form. The String::toUpperCase method reference is applied to each string element, converting it to uppercase.
+The resulting elements are collected into a new list called uppercaseWords.

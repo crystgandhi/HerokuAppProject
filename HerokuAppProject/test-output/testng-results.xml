@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-08T07:52:55 EST" name="Default suite" finished-at="2023-11-08T07:53:54 EST" duration-ms="59714">
+    <groups>
+    </groups>
+    <test started-at="2023-11-08T07:52:55 EST" name="Default test" finished-at="2023-11-08T07:53:54 EST" duration-ms="59714">
+      <class name="herokuappTest.FomyHerokuAppTest001">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:herokuappTest.FomyHerokuAppTest001@67d48005]" started-at="2023-11-08T07:52:55 EST" name="setUp" finished-at="2023-11-08T07:52:57 EST" duration-ms="2469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="lanuchApplication()[pri:0, instance:herokuappTest.FomyHerokuAppTest001@67d48005]" started-at="2023-11-08T07:52:57 EST" name="lanuchApplication" finished-at="2023-11-08T07:53:53 EST" duration-ms="56076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanuchApplication -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:herokuappTest.FomyHerokuAppTest001@67d48005]" started-at="2023-11-08T07:53:53 EST" name="teardown" finished-at="2023-11-08T07:53:54 EST" duration-ms="1138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- herokuappTest.FomyHerokuAppTest001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
